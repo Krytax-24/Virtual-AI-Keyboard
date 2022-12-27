@@ -11,7 +11,7 @@ In this Project I havr created a Virtual AI Keyboard that tracks your hand gestu
   - cvzone
   - pynput
 
-# HandTrackingModule
+# HandTrackingModule:-
   - Uses OpenCV and MediaPipe to detect and track the hand using the "Hand Landmark Model".
   - OpenCV is a library used for computer vision applications. With help of OpenCV, we can build an enormous number of applications that work better in real-time. Mainly it is used for image and video processing.
   - MediaPipe is a framework mainly used for building audio, video, or any time series data. With the help of the MediaPipe framework, we can build very impressive pipelines for different media processing functions.
@@ -21,6 +21,10 @@ In this Project I havr created a Virtual AI Keyboard that tracks your hand gestu
 # Click:- 
   - In order to simulate a click, you need to connect the index and middle fingers on your hand
    
-# Demonstration Video:-
-  https://github.com/Krytax-24/Virtual-AI-Keyboard/blob/main/Media/Virtual%20Keyboard%20Demo%20Video.mp4
+# Keyboard Layout:-
+  ![keyboard](https://user-images.githubusercontent.com/81406458/209623011-1904d399-275f-4086-8b0a-1a787b8e6f14.png)
    
+# Demonstration Video:-
+  https://user-images.githubusercontent.com/81406458/209622867-66ee5b46-5a4b-44bd-ba21-a9c5d92d8c96.mp4
+
+
