@@ -17,3 +17,9 @@ In this Project I havr created a Virtual AI Keyboard that tracks your hand gestu
   - MediaPipe is a framework mainly used for building audio, video, or any time series data. With the help of the MediaPipe framework, we can build very impressive pipelines for different media processing functions.
   - Hand Landmark Model 
     ![image](https://user-images.githubusercontent.com/81406458/207238073-78ccbd60-fed7-496d-891f-443dbf94a17a.png)
+   
+# Click:- 
+  - In order to simulate a click, you need to connect the index and middle fingers on your hand
+   
+# Demonstration Video:-
+   
