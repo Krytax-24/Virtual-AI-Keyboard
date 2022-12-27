@@ -22,4 +22,5 @@ In this Project I havr created a Virtual AI Keyboard that tracks your hand gestu
   - In order to simulate a click, you need to connect the index and middle fingers on your hand
    
 # Demonstration Video:-
+  https://github.com/Krytax-24/Virtual-AI-Keyboard/blob/main/Media/Virtual%20Keyboard%20Demo%20Video.mp4
    
